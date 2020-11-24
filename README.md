@@ -1,1 +1,1 @@
-# DataScience projects for learning : Kaggle challenges, Object Recognition, Parsing, etc.
+# DataScience projects for learning : 
