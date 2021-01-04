@@ -3,7 +3,7 @@ import matplotlib.pylab as plt
 import numpy as np
 
 
-df = pd.read_csv('../Tag18/data/names.csv', index_col='Id')
+df = pd.read_csv('..data/names.csv', index_col='Id')
 # Name Year Gender State Count
 
 # 1
